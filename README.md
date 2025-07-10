@@ -8,7 +8,7 @@ Welcome to my personal developer portfolio website! This site showcases my proje
 
 ## 📌 Overview
 
-This is a responsive, dark/light mode-ready portfolio built using **HTML**, **CSS**, and **JavaScript**. It highlights my key strengths in full-stack development, UI/UX design, and creative problem-solving.
+This is a responsive portfolio built using **HTML**, **CSS**, and **JavaScript**. It highlights my key strengths in full-stack development, UI/UX design, and creative problem-solving.
 
 ---
 
