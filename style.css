@@ -750,7 +750,7 @@ section {
 }
 
 
-/* 🌐 Responsive UI */
+/* 🌐 ----------------Responsive UI--------------- */
 @media (max-width: 600px) {
   html {
     font-size: 55%;
@@ -763,6 +763,7 @@ section {
   }
 }
 
+
 /* 🏠 Home Section */
 @media (max-width: 768px) {
   .home {
@@ -773,8 +774,9 @@ section {
   }
 
   .home-img img {
-    width: 70vw;
-    margin-top: 2rem;
+    width: 58vw;
+    height: 40vh;
+    margin-top: 2.5rem;
   }
 
   .home-content h1 {
@@ -876,28 +878,12 @@ section {
   }
 }
 
-/* 📍 Footer */
-@media (max-width: 600px) {
-  .footer-container {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .footer-right {
-    text-align: center;
-    margin-top: 15px;
-  }
-
-  .footer-middle {
-    font-size: 1.2rem;
-    margin-top: 15px;
-  }
-}
 
 
 /* 🌐 Social Icons Wrap */
 @media (max-width: 600px) {
   .social-icons {
+    display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 1rem;
@@ -907,4 +893,13 @@ section {
     margin: 1rem 0.8rem;
   }
 }
+
+/* resume button */
+@media (max-width: 600px) {
+  .resume-button {
+    margin: 0 auto;        
+    margin-top: 1rem;      
+  }
+}
+
 
